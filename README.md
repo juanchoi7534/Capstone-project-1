@@ -8,6 +8,8 @@ People are more influenced by how prices are presented than by the
 actual price itself. So it is determined according to consumers' different perspectives that can cause distinct choices.
 And based on these results and impacts, I'll represent notions and some examples to explain why it's constantly happened and effective to corporates forward people,too.
 
+
+
 -   ***Framing Effect***: A psychological phenomenon where people\'s
     > judgments differ depending on how the same information is
     > presented.
